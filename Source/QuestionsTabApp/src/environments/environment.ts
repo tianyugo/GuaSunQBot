@@ -1,7 +1,7 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://guasunqbot.azurewebsites.net/api/Request/",
-    selfUrl: "https://guasunqbot-questions.azurewebsites.net",
+    apiBaseUrl: "https://guasunqbotmyfirstbot.azurewebsites.net/api/Request/",
+    selfUrl: "https://guasunqbotmyfirstbot-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
